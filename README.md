@@ -2,5 +2,5 @@
 Interview preparation coding practice.
 # Preparation for Companies
 1. Google
-2. Amazone
+2. Amazon
 3. Microsoft
